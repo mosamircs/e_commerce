@@ -1,2 +1,0 @@
-buyer can buy many products 
-seller can sell many products 
